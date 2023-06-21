@@ -1,0 +1,29 @@
+body {
+    background-color: #202124;
+    color: white;
+}
+
+#light, #dark {
+    cursor:pointer
+}
+
+a {
+    color: #3eff4f;
+}
+
+a:hover {
+    color: #ed7739;
+}
+
+.row {
+    padding-bottom: 2rem;
+}
+
+.logo {
+    max-width: 100%;
+    height: auto;
+}
+
+h2 {
+    text-decoration: underline;
+}
